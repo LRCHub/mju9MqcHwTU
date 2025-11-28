@@ -1,71 +1,54 @@
 # 猫又おかゆ – パボ
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-You＆I 友達を飛び越え
-彼氏になりたいよ Oh, now
-君に伝えるのさ
-Girl あの星をあげるよ
-君が望めば Everything's alright
-叶えてあげる
-Oh, I love you, love you,
-love you. You love me,
-love me, love me
-I know (I know)
-溢れ出す気持ち (愛しくて)
-Oh, I love you, love you,
-love you and you love me,
-love me, baby
-My boy (my girl) 恋してるから
-I'm babo いつでも
-So babo 好きだよ
-みんなあきれるほど
-君だけ見つめてる
-Babo ふたりは So babo
-手を繋いで抱きしめて
-Baby 君だけ My love
-＜♪＞
-Girl 君だらけの Night＆day
-四六時中も会いたい
-Alright 夢の中まで
-Oh, I love you, love you,
-love you. You love me,
-love me, love me
-You know (you know)
-ドキドキが響く (確かめて)
-Oh, I love you, love you,
-love you and you love me,
-love me, baby
-My boy (my girl) 恋してるから
-I'm babo いつでも
-So babo 好きだよ
-みんなあきれるほど
-君だけ見つめてる
-Babo ふたりは So babo
-手を繋いで抱きしめて
-Baby 君だけ My love
-Baby, want your love.
-Baby, want your love.
-Baby, want your love
-Love you, love you.
-I'll take you into my mind
-Baby, want your love.
-Baby, want your love, oh, oh
-I'm babo いつでも
-So babo ありがとう
-友達に誇れる 君が恋人だって
-Babo ふたりは So babo
-いつも信じて一緒だよ
-Baby 君だけ My love
-Baby, want your love.
-Baby, want your love.
-Baby, want your love
-Love you, love you.
-I'll take you into my mind
-Baby, want your love.
-Baby, want your love.
-Baby, want your love
-Love you, love you.
-I'll take you into my mind
+```lrc
+[00:10.68] まだ朝じゃん動けないよ
+それじゃ今と変わらないの
+ただパチリ目を覚まして
+みれば？社会底のなしのブラック
+出勤
+出勤！出勤！
+出勤！出勤！
+まだ夜じゃん働けんじゃん
+それじゃただのご都合奴隷
+カラカラ喉から軽い言葉
+だりぃだらぁだりぃだらぁだりぃだらぁらぁ
+真面目な奴ほど損する社会の構成ルールと宿命
+しょーもないもない
+踊れ1234パボパボ
+くらえ鉄拳制裁猫パンチ
+歌え1234パボパボ
+くだらねえ世に飽き飽きさ
+社長も会長も口八丁
+無駄ね逃げれないよ
+パーボ
+出勤！出勤！
+出勤！出勤！
+まだ終わんない泊まり込んで
+辛い？ならばやめればいい
+ガラガラ喉から軽い言葉
+だりぃだらぁだりぃだらぁだりぃだらぁらぁ
+そんなに簡単だったら苦労はしねえとばあばはいった
+情もないもない
+みんなで1234パボパボ
+下す鉄槌高度な猫パンチ
+笑え1234パボパボ
+変わらない世に涙目さ
+あいつもあの子も星占い
+無駄ってわかんないの？
+パーボ
+人生誰かの駒だろ
+僕は天才ぶってたそりゃパボ！
+ここに上下関係ないから
+知らず今日も笑えますか？
+パーボ
+踊れ1234パボパボ
+くらえ鉄拳制裁猫パンチ
+歌え1234パボパボ
+くだらねえ世に飽き飽きさ
+社長も会長も口八丁
+無駄ね逃げれないよ
+まあいいじゃん踊りましょう
+パーボ
 ```
